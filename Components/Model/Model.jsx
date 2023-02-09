@@ -73,7 +73,7 @@ const Model = ({
                   {""}
                   <Image src={images.close} alt="send" width={30} height={30} />
                   {""}
-                  Not Now
+                  Not now
                 </button>
               </div>
             </div>
